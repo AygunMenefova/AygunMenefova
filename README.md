@@ -1,11 +1,11 @@
 ### Hi there 👋, Aygun Menefova
-#### Frontend Developer
+#### Data Analyst / Data Engineer
 
 
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHI5xE_41WPfA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1730797562978?e=1736380800&v=beta&t=o7wH78EnFmadyo_jCulTIrW5wwmx2IDFw5ntS3HIzOI)
 
 
-Skills:  HTML / CSS / BOOTSTRAP / JAVASCRİPT / REACT / REDUX TOOLKİT / MUI / TYPESCRİPT / SQL / MICROSOFT OFFICE
+Skills:  SQL / Phyton / Pandas / Numpy / R / MİCROSOFT OFFİCE / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AygunMenefova)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aygün-mənəfova/)  
