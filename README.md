@@ -1,4 +1,4 @@
-### Hi there 👋, Aygun Menefova
+### Hi there 👋, Aygun Manafova
 #### Data Analyst / Data Engineer
 
 
